@@ -45,7 +45,7 @@ cd media-bias
 
 ## Remote Usage
 
-If you just want to use the JSON as is, you can reference the [latest media bias JSON](dist/latest-media-bias.json) with the following URL:
+If you just want to use the JSON as is, you can reference the [latest media bias JSON](https://raw.githubusercontent.com/PsySecGroup/media-bias/main/dist/latest-media-bias.json) with the following URL:
 
 ```
 https://raw.githubusercontent.com/PsySecGroup/media-bias/main/dist/latest-media-bias.json
